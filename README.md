@@ -5,6 +5,7 @@ This project allows you to practice the concepts and techniques learned in this 
 ## Introduction
 
 initial commit
+second commit
 
 **Read these instructions carefully. Understand exactly what is expected _before_ starting this project.**
 
